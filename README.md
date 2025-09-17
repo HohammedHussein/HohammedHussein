@@ -43,5 +43,5 @@
   <a href="https://github.com/Mohammed-Hussein2/Almaw3eza">Almaw3eza</a> &nbsp;|&nbsp;
   <a href="https://github.com/Mohammed-Hussein2/Notes_App">Notes_App</a> &nbsp;|&nbsp;
   <a href="https://github.com/Mohammed-Hussein2/Rayal_Park">Rayal_Park</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Mohammed-Hussein2/small_projects">small_projects</a>
+  
 </p>
